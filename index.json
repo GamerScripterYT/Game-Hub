@@ -1,0 +1,38 @@
+[
+  {
+    "display": "Blox Fruits - Auto Farm Level",
+    "url": "https://raw.githubusercontent.com/someuser/some-repo/main/bloxfruits/autofarm.lua",
+    "gameName": "Blox Fruits"
+  },
+  {
+    "display": "Blox Fruits - Fruit Sniper",
+    "url": "https://raw.githubusercontent.com/anotheruser/repo/main/fruit-sniper.lua",
+    "gameName": "Blox Fruits"
+  },
+  {
+    "display": "Blox Fruits - Mirage Island Finder",
+    "url": "https://raw.githubusercontent.com/.../mirage-finder.lua",
+    "gameName": "Blox Fruits"
+  },
+  {
+    "display": "Doors - Figure Avoid + ESP",
+    "url": "https://raw.githubusercontent.com/.../doors/figure-avoid-esp.lua",
+    "gameName": "Doors"
+  },
+  {
+    "display": "Doors - Auto Library Solve",
+    "url": "https://raw.githubusercontent.com/.../doors/library-solve.lua",
+    "gameName": "Doors"
+  },
+  {
+    "display": "Universal - Infinite Jump",
+    "url": "https://raw.githubusercontent.com/.../universal/inf-jump.lua",
+    "gameName": "Universal"
+  },
+  {
+    "display": "Universal - Fly",
+    "url": "https://raw.githubusercontent.com/.../universal/fly.lua",
+    "gameName": "Universal"
+  }
+  // ← add every single script you have links for
+]
